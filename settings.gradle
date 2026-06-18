@@ -6,4 +6,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'Eruptium'
+rootProject.name = 'eruptium'
